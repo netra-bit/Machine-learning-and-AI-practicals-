@@ -13,7 +13,8 @@ Scikit-learn ,
 Matplotlib / Seaborn
 
 
-📂 Practicals Included:-
+# Practicals Included:-
+
 📊 DataFrame Operations ,
 
 🔍 Finding Correlation Matrix ,
@@ -23,6 +24,7 @@ Matplotlib / Seaborn
 🧹 Handling Missing Values & Duplicates ,
 
 🤖 Machine Learning Algorithms:
+
 Linear Regression
 
 Logistic Regression
@@ -38,3 +40,16 @@ Random Forest
 📉 Confusion Matrix ,
 
 ✂️ Pruning in Decision Trees
+
+
+💡 Key Learnings:
+
+Data preprocessing and cleaning
+
+Feature selection and encoding
+
+Model training and evaluation
+
+Understanding different ML algorithms
+
+Visualization of data insights
