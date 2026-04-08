@@ -4,7 +4,7 @@ This repository contains a collection of Machine Learning practicals and experim
 
 It covers fundamental concepts of Data Science and Machine Learning, including data preprocessing, visualization, and model building.
 
-🚀 Technologies Used :-
+# Technologies Used :-
 Python 🐍 ,
 Jupyter Notebook ,
 Pandas ,
@@ -42,7 +42,7 @@ Random Forest
 ✂️ Pruning in Decision Trees
 
 
-💡 Key Learnings:
+# Key Learnings:
 
 Data preprocessing and cleaning
 
