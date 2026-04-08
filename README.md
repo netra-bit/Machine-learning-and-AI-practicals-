@@ -15,15 +15,26 @@ Matplotlib / Seaborn
 
 📂 Practicals Included:-
 📊 DataFrame Operations ,
+
 🔍 Finding Correlation Matrix ,
+
 📈 Normal Distribution Analysis ,
+
 🧹 Handling Missing Values & Duplicates ,
+
 🤖 Machine Learning Algorithms:
 Linear Regression
+
 Logistic Regression
+
 K-Nearest Neighbors (KNN)
+
 Support Vector Machine (SVM)
+
 Decision Tree (ID3)
+
 Random Forest
+
 📉 Confusion Matrix ,
+
 ✂️ Pruning in Decision Trees
